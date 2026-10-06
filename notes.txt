@@ -3,3 +3,4 @@ commands learned
 git init 
 git add
 git commit
+learning command
